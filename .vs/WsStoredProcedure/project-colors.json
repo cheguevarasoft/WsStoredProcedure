@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "107c252f-679e-45d5-be92-6343c93d9894": {
+      "ProjectGuid": "107c252f-679e-45d5-be92-6343c93d9894",
+      "DisplayName": "WsStoredProcedure",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
